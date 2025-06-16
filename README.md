@@ -55,7 +55,7 @@ Netflix-clone-demo-main/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Netflix-clone-demo.git
+git clone https://github.com/sohamd58/Netflix-clone-demo.git
 cd Netflix-clone-demo
 ```
 
