@@ -120,7 +120,6 @@ Pull requests are welcome! Found a bug or want to suggest an enhancement? Open a
 
 ---
 
-:mortar_board: Built with help from [Codesistency](https://www.youtube.com/@codesistency)
 ⭐ **Star this repo** if you liked it!
 📫 **Connect with me** on [LinkedIn](https://www.linkedin.com/in/soham-d1758) or GitHub!
 
